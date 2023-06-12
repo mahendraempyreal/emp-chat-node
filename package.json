@@ -1,0 +1,32 @@
+{
+  "name": "emp-chat-node",
+  "version": "1.0.0",
+  "description": "chat using socket",
+  "main": "socket-events.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahendraempyreal",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendraempyreal/emp-chat-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "socketio",
+    "chatapp",
+    "realtime",
+    "chat"
+  ],
+  "bugs": {
+    "url": "https://github.com/mahendraempyreal/emp-chat-node/issues"
+  },
+  "homepage": "https://github.com/mahendraempyreal/emp-chat-node#readme"
+}
